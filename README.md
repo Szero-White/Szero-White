@@ -103,12 +103,7 @@
 
 <br/>
 
-<div align="center">
-
 <img src="https://img.shields.io/badge/Motto-See%20the%20traffic.%20Read%20the%20logs.%20Fix%20the%20root%20cause.-ec4899?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Focus-Web%20%E2%80%A2%20Networking%20%E2%80%A2%20Security%20Fundamentals-a855f7?style=for-the-badge" />
-
-</div>
 
 <img width="100%" alt="footer"
   src="https://capsule-render.vercel.app/api?type=waving&height=135&section=footer&color=0:0b1020,18:ec4899,45:a855f7,72:4f46e5,100:0b1020&cache=20260315" />
