@@ -23,7 +23,7 @@
 <br/><br/>
 
 <!-- Contact badges -->
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:congtoan2k4@gmail.com">
   <img src="https://img.shields.io/badge/Email-0b1220?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="YOUR_LINKEDIN">
