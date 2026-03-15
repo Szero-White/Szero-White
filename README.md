@@ -1,176 +1,132 @@
-<!-- =========================
- ULTRA VIP GitHub Profile README
- User: Szero-White
- Name: Nguyễn Công Toàn
- Theme: Cyber SOC / CCNA / Web
-========================= -->
-
 <div align="center">
 
-<!-- Animated capsule banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:020617,30:0ea5e9,60:22c55e,100:a855f7&text=NGUY%E1%BB%84N%20C%C3%94NG%20TO%C3%80N&fontSize=46&fontColor=E5E7EB&animation=twinkling&fontAlignY=36&desc=SOC%20%2F%20Blue%20Team%20%E2%80%A2%20CCNA-minded%20Networker%20%E2%80%A2%20Web%20Builder&descAlignY=60" />
+<!-- Top wave (giống image2 vibe) -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0b1220,25:1e3a8a,55:7c3aed,85:0ea5e9,100:0b1220&section=header&animation=twinkling&text=NGUY%E1%BB%84N%20C%C3%94NG%20TO%C3%80N&fontSize=44&fontColor=e5e7eb&fontAlignY=38&desc=SOC%20%2F%20Blue%20Team%20%E2%80%A2%20CCNA%20%E2%80%A2%20Web%20Builder&descAlignY=62" />
 
-<!-- Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=800&color=22C55E&center=true&vCenter=true&width=900&lines=Booting+profile...;Loading%3A+SOC+%2F+Blue+Team+workflow;Loading%3A+CCNA+troubleshooting+mindset;Loading%3A+Web+tools+%26+automation;Status%3A+Learn+%E2%86%92+Lab+%E2%86%92+Document+%E2%86%92+Repeat" />
+<!-- Typing -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=900&color=60A5FA&center=true&vCenter=true&width=900&lines=To%C3%A0n+%7C+SOC+%2F+Blue+Team;CCNA-minded+Networker;Web+Tools+%26+Automation;Learn+%E2%86%92+Lab+%E2%86%92+Document+%E2%86%92+Repeat" />
 
 <br/>
 
-<!-- Visitor + followers + stars (works in most cases) -->
-<img src="https://komarev.com/ghpvc/?username=Szero-White&style=for-the-badge&color=0ea5e9" />
-<img src="https://img.shields.io/github/followers/Szero-White?style=for-the-badge&color=22c55e" />
-<img src="https://img.shields.io/github/stars/Szero-White?style=for-the-badge&color=a855f7" />
+<!-- Quick badges -->
+<img src="https://komarev.com/ghpvc/?username=Szero-White&style=for-the-badge&color=1e3a8a" />
+<img src="https://img.shields.io/github/followers/Szero-White?style=for-the-badge&color=7c3aed" />
+<img src="https://img.shields.io/badge/Focus-SOC%20%2F%20CCNA%20%2F%20Web-0ea5e9?style=for-the-badge" />
 
-<br/><br/>
+</div>
 
-<!-- Contact badges -->
-<a href="mailto:congtoan2k4@gmail.com">
+---
+
+## 🧾 About Me
+Xin chào, mình là **Toàn** — sinh viên năm cuối ngành **Mạng máy tính & Truyền thông dữ liệu**.
+
+Mình theo hướng **SOC / Blue Team** (monitoring, log analysis, triage, incident workflow cơ bản) và mình tin lợi thế lớn của mình là:
+- ✅ **Tư duy mạng kiểu CCNA** (traffic, segmentation, troubleshooting)
+- ✅ **Thực hành lab + ghi chép** (reproducible notes)
+- ✅ **Web + scripting** để biến kiến thức thành công cụ & dashboard
+
+> Mình muốn profile không chỉ “đẹp”, mà còn “có chất”: có dự án, có lab, có writeup.
+
+---
+
+## 🧰 Tech Stack (icons)
+<div align="center">
+
+### 🛡️ Security / Blue Team
+<img src="https://img.shields.io/badge/Wazuh-0b1220?style=for-the-badge&logo=securityscorecard&logoColor=white" />
+<img src="https://img.shields.io/badge/Snort-0b1220?style=for-the-badge&logo=bitdefender&logoColor=white" />
+<img src="https://img.shields.io/badge/Wireshark-0b1220?style=for-the-badge&logo=wireshark&logoColor=white" />
+<img src="https://img.shields.io/badge/Nmap-0b1220?style=for-the-badge&logo=linux&logoColor=white" />
+<img src="https://img.shields.io/badge/Burp%20Suite-0b1220?style=for-the-badge&logo=protonvpn&logoColor=white" />
+
+### 🌐 Networking / Systems
+<img src="https://img.shields.io/badge/CCNA%20Mindset-111827?style=for-the-badge&logo=cisco&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=white" />
+<img src="https://img.shields.io/badge/Windows%20Server-111827?style=for-the-badge&logo=windows&logoColor=white" />
+
+### 💻 Code / Web
+<img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/C-111827?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/C%2B%2B-111827?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-111827?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=white" />
+
+</div>
+
+---
+
+## 🧪 Featured Projects
+- 🔗 Security Materials: https://github.com/congtoan999/SecurityMaterials  
+- 🧫 *(Add next)* SOC Home Lab (Wazuh + endpoints + detections + report)  
+- 🌐 *(Add next)* Network Lab (VLAN / ACL / troubleshooting tickets)  
+- 🧰 *(Add next)* Web Tool (log-note generator / dashboard)
+
+---
+
+## 📊 Most Used Languages (giống image3)
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Szero-White&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" />
+
+</div>
+
+---
+
+## 🤝 Connect with Me (giống image4)
+<div align="center">
+
+<a href="mailto:YOUR_EMAIL">
   <img src="https://img.shields.io/badge/Email-0b1220?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/Szero-White">
+  <img src="https://img.shields.io/badge/GitHub-0b1220?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="YOUR_LINKEDIN">
   <img src="https://img.shields.io/badge/LinkedIn-0b1220?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="YOUR_PORTFOLIO">
-  <img src="https://img.shields.io/badge/GitHub%20Pages-0b1220?style=for-the-badge&logo=githubpages&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portfolio-0b1220?style=for-the-badge&logo=githubpages&logoColor=white" />
 </a>
 
 </div>
 
 ---
 
+## 💬 Random Dev Quote (giống image4)
 <div align="center">
 
-## 🛰️ Operator Profile
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 
-</div>
-
-### 🧾 `whoami`
-I’m **Toàn**, final-year student in **Computer Networks & Data Communication**.  
-I like building systems where **visibility** becomes **control**:
-
-- 🌐 **Networking (CCNA mindset):** diagnose fast, isolate issues, confirm with evidence  
-- 🛡️ **SOC / Blue Team:** alerts → context → triage → investigation → report  
-- 🧰 **Web + Scripting:** turn learning into tools, dashboards, docs, automation
-
-> I don’t want a profile that “looks good only”.  
-> I want a profile that makes people think: **“this person can operate.”**
-
----
-
-## 🧠 `core_identity`
-- 🛡️ **Blue Team learner** — log analysis, monitoring, detection thinking  
-- 🌐 **Network-first** — I treat traffic as truth (pcap mindset)  
-- 🧩 **Builder** — I ship small but consistent projects  
-- 🗂️ **Documenter** — writeups, checklists, reproducible labs
-
----
-
-## 🎯 `current_mission --2026`
-- Build a clean **SOC Home Lab** (Wazuh + endpoints + alert tuning)
-- Improve **packet analysis** + IDS reasoning (Snort + Wireshark)
-- Publish **labs/writeups** in a structured way (not random notes)
-- Ship **2–3 web tools** related to security learning
-
----
-
-## 🧰 `toolbox` (icons + badges)
-### 🛡️ Security / Blue Team
-<p>
-  <img src="https://img.shields.io/badge/Wazuh-111827?style=for-the-badge&logo=securityscorecard&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Snort-111827?style=for-the-badge&logo=bitdefender&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Wireshark-111827?style=for-the-badge&logo=wireshark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nmap-111827?style=for-the-badge&logo=linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Burp%20Suite-111827?style=for-the-badge&logo=protonvpn&logoColor=white"/>
-</p>
-
-### 🌐 Networking
-<p>
-  <img src="https://img.shields.io/badge/CCNA%20Mindset-0ea5e9?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Subnetting-1d4ed8?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/VLAN%20%2F%20ACL-2563eb?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Troubleshooting-0b1220?style=for-the-badge"/>
-</p>
-
-### 💻 Code / Web
-<p>
-  <img src="https://img.shields.io/badge/Python-0b1220?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-0b1220?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-0b1220?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-0b1220?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-0b1220?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-0b1220?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-0b1220?style=for-the-badge&logo=javascript&logoColor=white"/>
-</p>
-
----
-
-## 🧪 `projects` (evidence section)
-### ✅ Featured
-- 🧷 **Security Materials / Notes:** https://github.com/congtoan999/SecurityMaterials
-
-### 🧫 SOC Home Lab (recommended next)
-*(Create a repo like `soc-home-lab` and document it. This will look insanely strong.)*
-- Wazuh server + agents (Windows/Linux)
-- Alerts: auth failures, suspicious processes, file integrity monitoring
-- Outputs: dashboards + screenshots + investigation notes
-
-### 🌐 Network Lab (recommended next)
-- VLAN + Inter-VLAN Routing + ACLs
-- Troubleshooting tickets (write like real incidents)
-- Packet capture evidence
-
-### 🧰 Web Tools (recommended next)
-- “Log Note Generator” (Markdown report generator)
-- Mini dashboard for lab metrics
-- Portfolio site / docs site
-
----
-
-## 📚 `training_and_challenges`
-- OverTheWire: Bandit / Natas / Leviathan / Krypton  
-- TryHackMe + LetsDefend basics  
-- Blue Team SOC101 (Cyber Jutsu): SOC ops, monitoring, detection, log analysis  
-- English: **B1 Aptis ESOL (2023)**
-
----
-
-## 🧩 `operating_playbook`
-**My workflow (how I learn and operate):**
-1) Define objective (what signal am I detecting / what problem am I solving?)
-2) Build lab (small and reproducible)
-3) Generate data (normal + suspicious behaviors)
-4) Observe (logs, pcaps, alerts)
-5) Triage + Investigate (timeline, context, hypotheses)
-6) Document (report + lessons + improvements)
-7) Tune (reduce noise, improve accuracy)
-
----
-
-## 📈 `live_telemetry` (animated-looking widgets)
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Szero-White&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Szero-White&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-  <img height="190" src="https://github-readme-activity-graph.vercel.app/graph?username=Szero-White&bg_color=020617&color=22c55e&line=0ea5e9&point=a855f7&area=true&hide_border=true" />
 </div>
 
 ---
 
-## 🧾 `operator_log` (add weekly entries — this looks premium)
-**2026 Week Plan (example format):**
-- Week 1: Wazuh install + agent onboarding + baseline dashboard
-- Week 2: Snort rules + test traffic + document detections
-- Week 3: Write incident-style reports (Markdown template)
-- Week 4: Publish 1 web tool for security notes/reporting
+## 🎧 What I'm Listening To (Spotify widget)
+> Phần này cần bạn có Spotify + setup widget (mình hướng dẫn bên dưới).
+<div align="center">
+  <!-- placeholder: bạn sẽ thay bằng ảnh widget do service tạo -->
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=default&show_offline=false&background_color=0b1220&interchange=false&bar_color=0ea5e9&bar_color_cover=false" />
+</div>
 
 ---
 
-## 🧨 `signature`
+## 📈 GitHub Stats
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Szero-White&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Szero-White&theme=tokyonight&hide_border=true&border_radius=12" />
+</div>
+
+<div align="center">
+  <img height="190" src="https://github-readme-activity-graph.vercel.app/graph?username=Szero-White&bg_color=0b1220&color=60a5fa&line=0ea5e9&point=a855f7&area=true&hide_border=true" />
+</div>
+
+---
+
 <div align="center">
 
-### “Visibility → Control • Logs → Truth • Documentation → Power”
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:22c55e,50:0ea5e9,100:020617&section=footer"/>
+<!-- Footer wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0b1220,30:0ea5e9,60:7c3aed,100:0b1220&section=footer" />
 
 </div>
