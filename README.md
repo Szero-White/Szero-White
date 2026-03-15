@@ -1,23 +1,19 @@
 <div align="center">
 
-<!-- FIXED BANNER: use ASCII only to avoid broken image -->
 <img width="100%" alt="banner"
-  src="https://capsule-render.vercel.app/api?type=waving&height=260&section=header&animation=twinkling&fontAlignY=38&fontSize=44&fontColor=f8fafc&color=0:0b1020,18:ec4899,45:a855f7,72:4f46e5,100:0b1020&text=NGUYEN%20CONG%20TOAN&desc=Web%20%7C%20Networking%20%7C%20Security%20-%20Portfolio%20and%20Learning%20Log&descAlignY=64&cache=20260315" />
+  src="https://capsule-render.vercel.app/api?type=waving&height=260&section=header&animation=twinkling&fontAlignY=38&fontSize=44&fontColor=f8fafc&color=0:0b1020,18:ec4899,45:a855f7,72:4f46e5,100:0b1020&text=NGUYEN%20CONG%20TOAN&desc=Web%20%7C%20Networking%20%7C%20Security&descAlignY=64&cache=20260315" />
 
-<!-- Typing -->
 <img alt="typing"
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=18&pause=900&color=EC4899&center=true&vCenter=true&width=980&lines=Nguyen+Cong+Toan;Ho+Chi+Minh+City+%7C+Open+to%3A+Internship+%2F+Fresher;Build+%E2%80%A2+Troubleshoot+%E2%80%A2+Document" />
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=18&pause=900&color=EC4899&center=true&vCenter=true&width=980&lines=Nguy%E1%BB%85n+C%C3%B4ng+To%C3%A0n;Ho+Chi+Minh+City;Open+to%3A+Internship+%2F+Fresher" />
 
 <br/>
 
-<!-- Colorful status badges (less boring) -->
 <img src="https://komarev.com/ghpvc/?username=Szero-White&style=for-the-badge&color=a855f7" />
 <img src="https://img.shields.io/github/followers/Szero-White?style=for-the-badge&color=ec4899" />
 <img src="https://img.shields.io/badge/GitHub-Szero--White-4f46e5?style=for-the-badge&logo=github&logoColor=white" />
 
 <br/><br/>
 
-<!-- Contact buttons (colored accents) -->
 <a href="mailto:congtoan2k4@gmail.com">
   <img src="https://img.shields.io/badge/Email-congtoan2k4%40gmail.com-111827?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
@@ -25,12 +21,11 @@
   <img src="https://img.shields.io/badge/GitHub-Szero--White-111827?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/nguyễn-công-toàn-742a7b366">
-  <img src="https://img.shields.io/badge/LinkedIn-Nguyen%20Cong%20Toan-111827?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Nguy%E1%BB%85n%20C%C3%B4ng%20To%C3%A0n-111827?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <br/><br/>
 
-<!-- Neon divider (animated GIF) -->
 <img width="90%" alt="divider"
   src="https://user-images.githubusercontent.com/74038190/216656993-7e4c3d7b-7c3a-4b62-9f2d-93c4f6d2b7ad.gif" />
 
@@ -38,12 +33,56 @@
 
 ---
 
+## 🛠️ Tech Stack (Color Mode)
+
+### Languages
 <div align="center">
 
-## ✦ Glow Strip (makes the page feel premium)
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff" />
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=fff" />
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=fff" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff" />
 
-<img alt="glow-strip"
-  src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:ec4899,50:a855f7,100:4f46e5&section=header&reversal=false&cache=20260315" width="92%" />
+</div>
+
+### Web / Frontend
+<div align="center">
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=fff" />
+<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=fff" />
+<img src="https://img.shields.io/badge/Markdown-111827?style=for-the-badge&logo=markdown&logoColor=fff" />
+
+</div>
+
+### Networking / Systems
+<div align="center">
+
+<img src="https://img.shields.io/badge/CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=fff" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000" />
+<img src="https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=fff" />
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=fff" />
+<img src="https://img.shields.io/badge/Nmap-2E3440?style=for-the-badge&logo=linux&logoColor=fff" />
+
+</div>
+
+### Security (fundamentals)
+<div align="center">
+
+<img src="https://img.shields.io/badge/Wazuh-005571?style=for-the-badge&logo=securityscorecard&logoColor=fff" />
+<img src="https://img.shields.io/badge/Snort-EA4AAA?style=for-the-badge&logo=bitdefender&logoColor=fff" />
+<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=protonvpn&logoColor=fff" />
+
+</div>
+
+### Tools
+<div align="center">
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff" />
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=fff" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff" />
 
 </div>
 
@@ -51,61 +90,6 @@
 
 <div align="center">
 
-## 🧭 Capabilities (balanced, multi-field)
-
-<img src="https://img.shields.io/badge/Web-Build%20UI%20%26%20tools-ec4899?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Networking-Troubleshoot%20with%20evidence-a855f7?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Security-Observe%20logs%20%26%20traffic-4f46e5?style=for-the-badge" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/Mindset-Lab%20driven-111827?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Mindset-Consistency-111827?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Mindset-Documentation-111827?style=for-the-badge" />
-
-</div>
-
----
-
-<div align="center">
-
-## ⚡ Stack (icon-first)
-
-</div>
-
-<div align="center">
-
-<!-- Web -->
-<img src="https://img.shields.io/badge/HTML5-0b1020?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-0b1020?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-0b1020?style=for-the-badge&logo=javascript&logoColor=white" />
-
-<!-- Code -->
-<img src="https://img.shields.io/badge/Python-0b1020?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-0b1020?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/C%20%2F%20C%2B%2B-0b1020?style=for-the-badge&logo=c&logoColor=white" />
-
-<br/>
-
-<!-- Network / System -->
-<img src="https://img.shields.io/badge/CCNA-111827?style=for-the-badge&logo=cisco&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=white" />
-<img src="https://img.shields.io/badge/Windows%20Server-111827?style=for-the-badge&logo=windows&logoColor=white" />
-<img src="https://img.shields.io/badge/Wireshark-111827?style=for-the-badge&logo=wireshark&logoColor=white" />
-<img src="https://img.shields.io/badge/Nmap-111827?style=for-the-badge&logo=linux&logoColor=white" />
-
-<!-- Security -->
-<img src="https://img.shields.io/badge/Wazuh-111827?style=for-the-badge&logo=securityscorecard&logoColor=white" />
-<img src="https://img.shields.io/badge/Snort-111827?style=for-the-badge&logo=bitdefender&logoColor=white" />
-<img src="https://img.shields.io/badge/Burp%20Suite-111827?style=for-the-badge&logo=protonvpn&logoColor=white" />
-
-</div>
-
----
-
-<div align="center">
-
-<!-- Second neon divider -->
 <img width="90%" alt="divider2"
   src="https://user-images.githubusercontent.com/74038190/216656979-9d6b1a1f-8a9b-4d26-bb9a-3c52fb3b9a7a.gif" />
 
@@ -113,21 +97,22 @@
 
 ---
 
+## 🔗 Link Hub
 <div align="center">
 
-## 📎 Featured Link
-
+<a href="https://github.com/Szero-White">
+  <img src="https://img.shields.io/badge/GitHub%20Profile-Visit-4f46e5?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 <a href="https://github.com/congtoan999/SecurityMaterials">
-  <img src="https://img.shields.io/badge/Repo-SecurityMaterials-a855f7?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Notes%20%2F%20Materials-Repo-ec4899?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
 
 ---
 
-<div align="center">
-
 ## 📊 Visual Cards
+<div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Szero-White&show_icons=true&theme=tokyonight&hide_border=true&border_radius=14" />
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Szero-White&theme=tokyonight&hide_border=true&border_radius=14" />
@@ -140,15 +125,16 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Szero-White&layout=compact&theme=tokyonight&hide_border=true&border_radius=14" />
 
+<br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
 </div>
 
 ---
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-
-<!-- Footer -->
 <img width="100%" alt="footer"
   src="https://capsule-render.vercel.app/api?type=waving&height=135&section=footer&color=0:0b1020,18:ec4899,45:a855f7,72:4f46e5,100:0b1020&cache=20260315" />
 
