@@ -70,6 +70,7 @@
   <img src="https://img.shields.io/badge/Wazuh-005571?style=for-the-badge&logo=securityscorecard&logoColor=fff" />
   <img src="https://img.shields.io/badge/Snort-EA4AAA?style=for-the-badge&logo=bitdefender&logoColor=fff" />
   <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=protonvpn&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Suricata-EF3B2D?style=for-the-badge&logo=suricata&logoColor=white" />
 </p>
 
 ### Tools
