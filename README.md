@@ -69,7 +69,7 @@
   <img src="https://img.shields.io/badge/Nmap-2E3440?style=for-the-badge&logo=linux&logoColor=fff" />
 </p>
 
-### Security (fundamentals)
+### Security
 <p>
   <img src="https://img.shields.io/badge/Wazuh-005571?style=for-the-badge&logo=securityscorecard&logoColor=fff" />
   <img src="https://img.shields.io/badge/Snort-EA4AAA?style=for-the-badge&logo=bitdefender&logoColor=fff" />
