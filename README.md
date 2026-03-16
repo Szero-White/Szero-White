@@ -71,6 +71,7 @@
   <img src="https://img.shields.io/badge/Snort-EA4AAA?style=for-the-badge&logo=bitdefender&logoColor=fff" />
   <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=protonvpn&logoColor=fff" />
   <img src="https://img.shields.io/badge/Suricata-EF3B2D?style=for-the-badge&logo=suricata&logoColor=white" />
+  <img src="https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white" />
 </p>
 
 ### Tools
