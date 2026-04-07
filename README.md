@@ -2,10 +2,10 @@
 
 <!-- Banner (ASCII để tránh lỗi) -->
 <img width="100%" alt="banner"
-  src="https://capsule-render.vercel.app/api?type=waving&height=260&section=header&animation=twinkling&fontAlignY=38&fontSize=44&fontColor=f8fafc&color=0:0b1020,18:ec4899,45:a855f7,72:4f46e5,100:0b1020" />
+  src="https://capsule-render.vercel.app/api?type=waving&height=260&section=header&animation=twinkling&fontAlignY=38&fontSize=44&fontColor=f8fafc&color=0:0b1020,18:ec4899,45:a855f7,72:4f46e5,100:0b1020&text=NGUYEN%20CONG%20TOAN&desc=Web%20%7C%20Networking%20%7C%20Security&descAlignY=64&cache=20260315" />
 
 <img alt="typing"
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=18&pause=900&color=EC4899&center=true&vCenter=true&width=980&lines=Nguy%E1%BB%85n+C%C3%B4ng+To%C3%A0n;Ho+Chi+Minh+City;Cybersecurity+%26+Networking;Welcome+to+my+GitHub+Profile" />
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=18&pause=900&color=EC4899&center=true&vCenter=true&width=980&lines=Nguy%E1%BB%85n+C%C3%B4ng+To%C3%A0n;Ho+Chi+Minh+City;Open+to%3A+Internship+%2F+Fresher" />
 
 <br/>
 
@@ -21,7 +21,7 @@
 <a href="https://github.com/Szero-White">
   <img src="https://img.shields.io/badge/GitHub-Szero--White-111827?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/nguy%E1%BB%85n-c%C3%B4ng-to%C3%A0n-742a7b366">
+<a href="https://www.linkedin.com/in/nguyễn-công-toàn-742a7b366">
   <img src="https://img.shields.io/badge/LinkedIn-Nguy%E1%BB%85n%20C%C3%B4ng%20To%C3%A0n-111827?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
@@ -35,7 +35,6 @@
 ---
 
 <div align="center">
-
 ## 🛠️ Tech Stack
 
 ### Languages
@@ -102,9 +101,14 @@
 ---
 
 <div align="center">
-
 <img width="90%" alt="divider2"
   src="https://user-images.githubusercontent.com/74038190/216656979-9d6b1a1f-8a9b-4d26-bb9a-3c52fb3b9a7a.gif" />
+
+<div align="center">
+
+<div align="center">
+
+<div align="center">
 
 ## 📊 Visual Cards
 
@@ -112,8 +116,7 @@
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Szero-White&theme=tokyonight&hide_border=true&border_radius=14" />
 
 <br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Szero-White&theme=tokyonight&no-frame=true&row=1&column=7" />
+<img height="200" src="https://github-readme-activity-graph.vercel.app/graph?username=Szero-White&bg_color=0b1020&color=ec4899&line=a855f7&point=60a5fa&area=true&hide_border=true" />
 
 <br/>
 
