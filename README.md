@@ -108,8 +108,8 @@
 
 ## 📊 Visual Cards
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Szero-White&show_icons=true&theme=tokyonight&hide_border=true&border_radius=14" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Szero-White&theme=tokyonight&hide_border=true&border_radius=14" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Szero-White&show_icons=true&theme=tokyonight&hide_border=true&border_radius=14" /><!-- Phiên bản thay thế tốt hơn hiện nay -->
+<img height="165" src="https://github-readme-streak-stats-eight.vercel.app/?user=Szero-White&theme=tokyonight&hide_border=true&border_radius=14" alt="GitHub Streak" />
 
 <br/>
 
