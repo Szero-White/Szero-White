@@ -106,37 +106,16 @@
 <img width="90%" alt="divider2"
   src="https://user-images.githubusercontent.com/74038190/216656979-9d6b1a1f-8a9b-4d26-bb9a-3c52fb3b9a7a.gif" />
 
-<div align="center">
 ## 📊 Visual Cards
-
-<img height="165" 
-     src="https://github-readme-stats.vercel.app/api?username=Szero-White&show_icons=true&theme=tokyonight&hide_border=true&border_radius=14" 
-     alt="GitHub Stats" />
-
-<img height="165" 
-     src="https://github-readme-streak-stats-eight.vercel.app/?user=Szero-White&theme=tokyonight&hide_border=true&border_radius=14" 
-     alt="GitHub Streak" />
-
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Szero-White&show_icons=true&theme=tokyonight&hide_border=true&border_radius=14" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Szero-White&theme=tokyonight&hide_border=true&border_radius=14" />
 <br/>
-
-<img height="200" 
-     src="https://github-readme-activity-graph.vercel.app/graph?username=Szero-White&bg_color=0b1020&color=ec4899&line=a855f7&point=60a5fa&area=true&hide_border=true" 
-     alt="Contribution Graph" />
-
+<img height="200" src="https://github-readme-activity-graph.vercel.app/graph?username=Szero-White&bg_color=0b1020&color=ec4899&line=a855f7&point=60a5fa&area=true&hide_border=true" />
 <br/>
-
-<img 
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Szero-White&layout=compact&theme=tokyonight&hide_border=true&border_radius=14" 
-     alt="Top Languages" />
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Szero-White&layout=compact&theme=tokyonight&hide_border=true&border_radius=14" />
 <br/>
-
-<img src="https://img.shields.io/badge/Motto-See%20the%20traffic.%20Read%20the%20logs.%20Fix%20the%20root%20cause.-ec4899?style=for-the-badge" 
-     alt="Motto" />
-
-<img width="100%" 
-     alt="footer"
-     src="https://capsule-render.vercel.app/api?type=waving&height=135&section=footer&color=0:0b1020,18:ec4899,45:a855f7,72:4f46e5,100:0b1020&cache=20260315" />
-</div>
+<img src="https://img.shields.io/badge/Motto-See%20the%20traffic.%20Read%20the%20logs.%20Fix%20the%20root%20cause.-ec4899?style=for-the-badge" />
+<img width="100%" alt="footer"
+&nbsp;&nbsp;src="https://capsule-render.vercel.app/api?type=waving&height=135&section=footer&color=0:0b1020,18:ec4899,45:a855f7,72:4f46e5,100:0b1020&cache=20260315" />
 </div>
 
