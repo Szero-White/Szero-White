@@ -115,10 +115,7 @@
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Szero-White&show_icons=true&theme=tokyonight&hide_border=true&border_radius=14" />
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Szero-White&theme=tokyonight&hide_border=true&border_radius=14" />
 
-<br/>
-<img height="200" src="https://github-readme-activity-graph.vercel.app/graph?username=Szero-White&bg_color=0b1020&color=ec4899&line=a855f7&point=60a5fa&area=true&hide_border=true" />
 
-<br/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Szero-White&layout=compact&theme=tokyonight&hide_border=true&border_radius=14" />
 
