@@ -118,4 +118,4 @@
 <img width="100%" alt="footer"
 &nbsp;&nbsp;src="https://capsule-render.vercel.app/api?type=waving&height=135&section=footer&color=0:0b1020,18:ec4899,45:a855f7,72:4f46e5,100:0b1020&cache=20260315" />
 </div>
-
+</div>
