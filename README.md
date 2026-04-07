@@ -115,7 +115,12 @@
 
 <br/>
 
-<img height="200" src="https://github-readme-activity-graph.vercel.app/graph?username=Szero-White&bg_color=0b1020&color=ec4899&line=a855f7&point=60a5fa&area=true&hide_border=true" />
+<!-- Activity graph: có thể bị down/chặn, nên thêm fallback -->
+<picture>
+  <source srcset="https://github-readme-activity-graph.vercel.app/graph?username=Szero-White&bg_color=0b1020&color=ec4899&line=a855f7&point=60a5fa&area=true&hide_border=true" />
+  <img height="200" alt="activity graph"
+       src="https://github-readme-activity-graph.cyclic.app/graph?username=Szero-White&bg_color=0b1020&color=ec4899&line=a855f7&point=60a5fa&area=true&hide_border=true" />
+</picture>
 
 <br/>
 
@@ -125,7 +130,11 @@
 
 <img src="https://img.shields.io/badge/Motto-See%20the%20traffic.%20Read%20the%20logs.%20Fix%20the%20root%20cause.-ec4899?style=for-the-badge" />
 
-<img width="100%" alt="footer"
-  src="https://capsule-render.vercel.app/api?type=waving&height=135&section=footer&color=0:0b1020,18:ec4899,45:a855f7,72:4f46e5,100:0b1020&cache=20260315" />
+<!-- Footer: sửa lỗi &nbsp;&nbsp; + thêm fallback -->
+<picture>
+  <source srcset="https://capsule-render.vercel.app/api?type=waving&height=135&section=footer&color=0:0b1020,18:ec4899,45:a855f7,72:4f46e5,100:0b1020&cache=20260315" />
+  <img width="100%" alt="footer"
+       src="https://raw.githubusercontent.com/kyechan99/capsule-render/master/docs/img/intro.svg" />
+</picture>
 
 </div>
