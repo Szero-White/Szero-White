@@ -112,17 +112,7 @@
 
 ## 📊 Backend Engineering Dashboard
 
-<div align="center">
-
-<img height="165" 
-  src="https://github-readme-streak-stats.herokuapp.com/?user=Szero-White&theme=tokyonight&hide_border=true&border_radius=14" />
-
-<br/>
-
-<img height="200" 
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Szero-White&bg_color=0b1020&color=38bdf8&line=22c55e&point=facc15&area=true&hide_border=true" />
-
-<br/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Szero-White&theme=tokyonight&hide_border=true&border_radius=14" /> <br/> <img height="200" src="https://github-readme-activity-graph.vercel.app/graph?username=Szero-White&bg_color=0b1020&color=ec4899&line=a855f7&point=60a5fa&area=true&hide_border=true" />
 
 <img 
   src="https://img.shields.io/badge/Backend%20Focus-REST%20API%20%7C%20Database%20%7C%20Security%20%7C%20Clean%20Architecture-22c55e?style=for-the-badge" />
