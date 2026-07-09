@@ -112,14 +112,17 @@
 
 ## 📊 Backend Engineering Dashboard
 
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Szero-White&theme=tokyonight&hide_border=true&border_radius=14" /> <br/> <img height="200" src="https://github-readme-activity-graph.vercel.app/graph?username=Szero-White&bg_color=0b1020&color=ec4899&line=a855f7&point=60a5fa&area=true&hide_border=true" /> <img src="https://img.shields.io/badge/Motto-See%20the%20traffic.%20Read%20the%20logs.%20Fix%20the%20root%20cause.-ec4899?style=for-the-badge" />
+<div align="center">
 
-<img 
-  src="https://img.shields.io/badge/System%20Mindset-Design%20for%20reliability%2C%20scalability%20and%20maintainability-facc15?style=for-the-badge" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Szero-White&theme=tokyonight&hide_border=true&border_radius=14" />
 
 <br/>
 
+<img height="200" src="https://github-readme-activity-graph.vercel.app/graph?username=Szero-White&bg_color=0b1020&color=ec4899&line=a855f7&point=60a5fa&area=true&hide_border=true" />
+
+<img src="https://img.shields.io/badge/Motto-Build%20the%20API.%20Guard%20the%20data.%20Keep%20the%20system%20reliable.-ec4899?style=for-the-badge" />
+
 <img width="100%" alt="footer"
-  src="https://capsule-render.vercel.app/api?type=waving&height=135&section=footer&color=0:0b1020,25:0f172a,50:22c55e,75:38bdf8,100:0b1020&cache=20260315" />
+  src="https://capsule-render.vercel.app/api?type=waving&height=135&section=footer&color=0:0b1020,18:ec4899,45:a855f7,72:4f46e5,100:0b1020&cache=20260315" />
 
 </div>
