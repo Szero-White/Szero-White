@@ -112,17 +112,7 @@
 
 ## 📊 Backend Engineering Dashboard
 
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Szero-White&theme=tokyonight&hide_border=true&border_radius=14" /> <br/> <img height="200" src="https://github-readme-activity-graph.vercel.app/graph?username=Szero-White&bg_color=0b1020&color=ec4899&line=a855f7&point=60a5fa&area=true&hide_border=true" />
-
-<img 
-  src="https://img.shields.io/badge/Backend%20Focus-REST%20API%20%7C%20Database%20%7C%20Security%20%7C%20Clean%20Architecture-22c55e?style=for-the-badge" />
-
-<br/>
-
-<img 
-  src="https://img.shields.io/badge/Motto-Trace%20the%20request.%20Read%20the%20logs.%20Fix%20the%20root%20cause.-38bdf8?style=for-the-badge" />
-
-<br/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Szero-White&theme=tokyonight&hide_border=true&border_radius=14" /> <br/> <img height="200" src="https://github-readme-activity-graph.vercel.app/graph?username=Szero-White&bg_color=0b1020&color=ec4899&line=a855f7&point=60a5fa&area=true&hide_border=true" /> <img src="https://img.shields.io/badge/Motto-See%20the%20traffic.%20Read%20the%20logs.%20Fix%20the%20root%20cause.-ec4899?style=for-the-badge" />
 
 <img 
   src="https://img.shields.io/badge/System%20Mindset-Design%20for%20reliability%2C%20scalability%20and%20maintainability-facc15?style=for-the-badge" />
