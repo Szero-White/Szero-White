@@ -57,7 +57,7 @@
   <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=fff" />
   <img src="https://img.shields.io/badge/Markdown-111827?style=for-the-badge&logo=markdown&logoColor=fff" />
 </p>
-
+<!-- <p>
 ### Networking / Systems
 <!-- <p>
   <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=fff" />
@@ -67,7 +67,7 @@
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=fff" />
   <img src="https://img.shields.io/badge/Nmap-2E3440?style=for-the-badge&logo=linux&logoColor=fff" />
 </p> -->
-
+<!-- <p>
 ### Security
 <!-- <p>
   <img src="https://img.shields.io/badge/Wazuh-005571?style=for-the-badge&logo=securityscorecard&logoColor=fff" />
