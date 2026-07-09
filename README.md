@@ -69,13 +69,13 @@
 </p>
 
 ### Security
-<p>
+<!-- <p>
   <img src="https://img.shields.io/badge/Wazuh-005571?style=for-the-badge&logo=securityscorecard&logoColor=fff" />
   <img src="https://img.shields.io/badge/Snort-EA4AAA?style=for-the-badge&logo=bitdefender&logoColor=fff" />
   <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=protonvpn&logoColor=fff" />
   <img src="https://img.shields.io/badge/Suricata-EF3B2D?style=for-the-badge&logo=hackthebox&logoColor=white" />
   <img src="https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white" />
-</p>
+</p> -->
 
 ### Office / Documents
 <p>
@@ -110,17 +110,36 @@
 
 <div align="center">
 
-## 📊 Visual Cards
+## 📊 Backend Engineering Dashboard
 
+<div align="center">
 
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Szero-White&theme=tokyonight&hide_border=true&border_radius=14" />
+<img height="165" 
+  src="https://github-readme-streak-stats.herokuapp.com/?user=Szero-White&theme=tokyonight&hide_border=true&border_radius=14" />
 
 <br/>
-<img height="200" src="https://github-readme-activity-graph.vercel.app/graph?username=Szero-White&bg_color=0b1020&color=ec4899&line=a855f7&point=60a5fa&area=true&hide_border=true" />
 
-<img src="https://img.shields.io/badge/Motto-See%20the%20traffic.%20Read%20the%20logs.%20Fix%20the%20root%20cause.-ec4899?style=for-the-badge" />
+<img height="200" 
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Szero-White&bg_color=0b1020&color=38bdf8&line=22c55e&point=facc15&area=true&hide_border=true" />
+
+<br/>
+
+<img 
+  src="https://img.shields.io/badge/Backend%20Focus-REST%20API%20%7C%20Database%20%7C%20Security%20%7C%20Clean%20Architecture-22c55e?style=for-the-badge" />
+
+<br/>
+
+<img 
+  src="https://img.shields.io/badge/Motto-Trace%20the%20request.%20Read%20the%20logs.%20Fix%20the%20root%20cause.-38bdf8?style=for-the-badge" />
+
+<br/>
+
+<img 
+  src="https://img.shields.io/badge/System%20Mindset-Design%20for%20reliability%2C%20scalability%20and%20maintainability-facc15?style=for-the-badge" />
+
+<br/>
 
 <img width="100%" alt="footer"
-  src="https://capsule-render.vercel.app/api?type=waving&height=135&section=footer&color=0:0b1020,18:ec4899,45:a855f7,72:4f46e5,100:0b1020&cache=20260315" />
+  src="https://capsule-render.vercel.app/api?type=waving&height=135&section=footer&color=0:0b1020,25:0f172a,50:22c55e,75:38bdf8,100:0b1020&cache=20260315" />
 
 </div>
