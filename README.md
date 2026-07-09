@@ -2,10 +2,10 @@
 
 <!-- Banner (ASCII để tránh lỗi) -->
 <img width="100%" alt="banner"
-  src="https://capsule-render.vercel.app/api?type=waving&height=260&section=header&animation=twinkling&fontAlignY=38&fontSize=44&fontColor=f8fafc&color=0:0b1020,18:ec4899,45:a855f7,72:4f46e5,100:0b1020&text=NGUYEN%20CONG%20TOAN&desc=Web&descAlignY=64&cache=20260315" />
+  src="https://capsule-render.vercel.app/api?type=waving&height=260&section=header&animation=twinkling&fontAlignY=38&fontSize=44&fontColor=f8fafc&color=0:0b1020,18:ec4899,45:a855f7,72:4f46e5,100:0b1020&text=NGUYEN%20CONG%20TOAN&desc=Backend%20Web%20Developer&descAlignY=64&cache=20260315" />
 
 <img alt="typing"
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=18&pause=900&color=EC4899&center=true&vCenter=true&width=980&lines=Nguy%E1%BB%85n+C%C3%B4ng+To%C3%A0n;Ho+Chi+Minh+City;Open+to%3A+Internship+%2F+Fresher" />
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=18&pause=900&color=EC4899&center=true&vCenter=true&width=980&lines=Nguy%E1%BB%85n+C%C3%B4ng+To%C3%A0n;Backend+Web+Developer;PHP+%7C+Java+%7C+SQL+%7C+REST+API;Open+to%3A+Internship+%2F+Fresher+Backend" />
 
 <br/>
 
