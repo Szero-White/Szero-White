@@ -59,14 +59,14 @@
 </p>
 
 ### Networking / Systems
-<p>
+<!-- <p>
   <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=fff" />
   <img src="https://img.shields.io/badge/CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=fff" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000" />
   <img src="https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=fff" />
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=fff" />
   <img src="https://img.shields.io/badge/Nmap-2E3440?style=for-the-badge&logo=linux&logoColor=fff" />
-</p>
+</p> -->
 
 ### Security
 <!-- <p>
