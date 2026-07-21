@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Banner (ASCII để tránh lỗi) -->
-<img width="100%" alt="banner"
+<img width="100%" alt="banner"  
   src="https://capsule-render.vercel.app/api?type=waving&height=260&section=header&animation=twinkling&fontAlignY=38&fontSize=44&fontColor=f8fafc&color=0:0b1020,18:ec4899,45:a855f7,72:4f46e5,100:0b1020&text=NGUYEN%20CONG%20TOAN&desc=Backend%20Web%20Developer&descAlignY=64&cache=20260315" />
 
 <img alt="typing"
