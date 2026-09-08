@@ -1,130 +1,303 @@
 <div align="center">
 
-<!-- Banner (ASCII để tránh lỗi) -->
-<img width="100%" alt="banner"  
-  src="https://capsule-render.vercel.app/api?type=waving&height=260&section=header&animation=twinkling&fontAlignY=38&fontSize=44&fontColor=f8fafc&color=0:0b1020,18:ec4899,45:a855f7,72:4f46e5,100:0b1020&text=NGUYEN%20CONG%20TOAN&desc=Backend%20Web%20Developer&descAlignY=64&cache=20260315" />
+<img width="100%" alt="Nguyen Cong Toan"
+src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&animation=fadeIn&fontAlignY=38&fontSize=46&fontColor=fff8e7&color=0:06080b,30:0b1422,65:173a63,100:7c6234&text=NGUYEN%20CONG%20TOAN&desc=Backend%20Web%20Developer&descAlignY=62&descSize=17" />
 
 <img alt="typing"
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=18&pause=900&color=EC4899&center=true&vCenter=true&width=980&lines=Nguy%E1%BB%85n+C%C3%B4ng+To%C3%A0n;Backend+Web+Developer;PHP+%7C+Java+%7C+SQL+%7C+REST+API;Open+to%3A+Internship+%2F+Fresher+Backend" />
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&pause=1000&color=78B7FF&center=true&vCenter=true&width=900&lines=I+build+the+part+you+don't+see.;APIs+%E2%80%A2+Databases+%E2%80%A2+Business+Logic+%E2%80%A2+Web+Systems;PHP+%E2%80%A2+Java+%E2%80%A2+JavaScript+%E2%80%A2+SQL;Build+%E2%86%92+Test+%E2%86%92+Ship+%E2%86%92+Improve" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Szero-White&style=for-the-badge&color=a855f7" />
-<img src="https://img.shields.io/github/followers/Szero-White?style=for-the-badge&color=ec4899" />
-<img src="https://img.shields.io/badge/GitHub-Szero--White-4f46e5?style=for-the-badge&logo=github&logoColor=white" />
-
-<br/><br/>
-
 <a href="mailto:congtoan2k4@gmail.com">
-  <img src="https://img.shields.io/badge/Email-congtoan2k4%40gmail.com-111827?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/EMAIL-0d1117?style=for-the-badge&logo=gmail&logoColor=F2C879" />
 </a>
 <a href="https://github.com/Szero-White">
-  <img src="https://img.shields.io/badge/GitHub-Szero--White-111827?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GITHUB-0d1117?style=for-the-badge&logo=github&logoColor=78B7FF" />
 </a>
 <a href="https://www.linkedin.com/in/nguyễn-công-toàn-742a7b366">
-  <img src="https://img.shields.io/badge/LinkedIn-Nguy%E1%BB%85n%20C%C3%B4ng%20To%C3%A0n-111827?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LINKEDIN-0d1117?style=for-the-badge&logo=linkedin&logoColor=78B7FF" />
 </a>
 
 <br/><br/>
 
-<img width="90%" alt="divider"
-  src="https://user-images.githubusercontent.com/74038190/216656993-7e4c3d7b-7c3a-4b62-9f2d-93c4f6d2b7ad.gif" />
+<sub><b>OPEN TO INTERNSHIP / FRESHER BACKEND OPPORTUNITIES</b></sub>
 
 </div>
 
 <br/>
 
-<p align="center">
-  <img width="90%" alt="divider"
-    src="https://user-images.githubusercontent.com/74038190/216656993-7e4c3d7b-7c3a-4b62-9f2d-93c4f6d2b7ad.gif" />
-</p>
+01 / CORE LANGUAGES
 
-<h2 align="center">🛠️ Backend Web Tech Stack</h2>
+<div align="center">
 
-<table align="center">
-  <tr>
-    <td align="center" width="900">
-      <h3>Backend Languages</h3>
-      <p>
-        <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=fff" />
-        <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=fff" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" />
-        <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff" />
-      </p>
-    </td>
-  </tr>
+<table>
+<tr>
+<td align="center" width="180">
+  <img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /><br/>
+  <b>PHP</b><br/>
+  <sub>BACKEND / WEB</sub>
+</td>
+<td align="center" width="180">
+  <img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /><br/>
+  <b>JAVA</b><br/>
+  <sub>BACKEND / SERVICES</sub>
+</td>
+<td align="center" width="180">
+  <img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /><br/>
+  <b>JAVASCRIPT</b><br/>
+  <sub>WEB / INTERACTION</sub>
+</td>
+<td align="center" width="180">
+  <img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /><br/>
+  <b>SQL</b><br/>
+  <sub>DATA / QUERIES</sub>
+</td>
+</tr>
+</table>
 
-  <tr>
-    <td align="center">
-      <h3>Backend Frameworks</h3>
-      <p>
-        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=fff" />
-        <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=fff" />
-        <img src="https://img.shields.io/badge/REST%20API-111827?style=for-the-badge&logo=fastapi&logoColor=fff" />
-        <img src="https://img.shields.io/badge/AJAX-4f46e5?style=for-the-badge&logo=jquery&logoColor=fff" />
-      </p>
-    </td>
-  </tr>
+Laravel · Spring Boot · REST API · AJAX
 
-  <tr>
-    <td align="center">
-      <h3>Database</h3>
-      <p>
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff" />
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=fff" />
-        <img src="https://img.shields.io/badge/Database%20Design-ec4899?style=for-the-badge" />
-      </p>
-    </td>
-  </tr>
+</div>
 
-  <tr>
-    <td align="center">
-      <h3>Web Fundamentals</h3>
-      <p>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff" />
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff" />
-        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=fff" />
-        <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=fff" />
-      </p>
-    </td>
-  </tr>
+<br/>
 
-  <tr>
-    <td align="center">
-      <h3>Tools</h3>
-      <p>
-        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff"/>
-        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=fff"/>
-        <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=fff"/>
-        <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=fff"/>
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff"/>
-      </p>
-    </td>
-  </tr>
+02 / TECHNOLOGY MATRIX
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=php,java,js,mysql,postgres,spring,laravel,html,css,bootstrap,jquery,git,github,vscode,postman,docker&perline=8" />
+
+</div>
+
+<br/>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+Backend
+
+request
+   ↓
+controller
+   ↓
+service
+   ↓
+business logic
+   ↓
+repository
+   ↓
+database
+   ↓
+response ✓
+
+</td>
+<td width="50%" valign="top">
+
+Data & Tooling
+
+MySQL
+PostgreSQL
+Database Design
+
+Git / GitHub
+VS Code
+Postman
+Docker
+
+</td>
+</tr>
 </table>
 
 <br/>
 
-<p align="center">
-  <img width="90%" alt="divider2"
-    src="https://user-images.githubusercontent.com/74038190/216656979-9d6b1a1f-8a9b-4d26-bb9a-3c52fb3b9a7a.gif" />
-</p>
+03 / BACKEND BUDDY
 
-<h2 align="center">📊 Backend Engineering Dashboard</h2>
+<div align="center">
 
-<p align="center">
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Szero-White&theme=tokyonight&hide_border=true&border_radius=14" />
-</p>
+Meet the quiet one behind the requests.
 
-<p align="center">
-  <img height="200" src="https://github-readme-activity-graph.vercel.app/graph?username=Szero-White&bg_color=0b1020&color=ec4899&line=a855f7&point=60a5fa&area=true&hide_border=true" />
-</p>
+<img alt="backend buddy status"
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&pause=1200&color=F2C879&center=true&vCenter=true&width=760&lines=%5Bbuddy%5D+handling+requests...;%5Bbuddy%5D+checking+logs...;%5Bbuddy%5D+asking+the+database+nicely...;%5Bbuddy%5D+pretending+coffee+is+a+dependency...;%5Bbuddy%5D+returning+200+OK+%E2%9C%93" />
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Motto-Build%20the%20API.%20Guard%20the%20data.%20Keep%20the%20system%20reliable.-ec4899?style=for-the-badge" />
-</p>
+             ┌──────────────────────┐
+             │   backend-buddy      │
+             │      ◉      ◉        │
+             │         ﹏            │
+             └─────────┬────────────┘
+                       │
+                    ┌──┴──┐
+                    │ </> │
+                    └──┬──┘
+              ┌────────┴────────┐
+              │  GET /api  200 │
+              │  POST /     201│
+              │  db.query() ✓  │
+              └─────────────────┘
+                      ☕
 
-<p align="center">
-  <img width="100%" alt="footer"
-    src="https://capsule-render.vercel.app/api?type=waving&height=135&section=footer&color=0:0b1020,18:ec4899,45:a855f7,72:4f46e5,100:0b1020&cache=20260315" />
-</p>
+<sub>tiny services, serious responsibilities.</sub>
+
+</div>
+
+<br/>
+
+04 / PLAYGROUND
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+📦 Request Courier
+
+CLIENT
+  │
+  ▼
+ API
+  │
+  ▼
+SERVICE
+  │
+  ▼
+DATABASE
+  │
+  ▼
+200 OK
+
+<details>
+<summary><b>Send request ▶</b></summary>
+<br/>
+
+ROUTING...
+AUTH ........ ✓
+SERVICE ..... ✓
+QUERY ....... ✓
+
+HTTP/1.1 200 OK
+
+</details>
+
+</td>
+
+<td width="33%" valign="top">
+
+🚨 500 Hunt
+
+One service is unhappy.
+
+API-01   API-02
+AUTH     CACHE
+DB-01    WORKER
+
+<details>
+<summary><b>Open incident</b></summary>
+<br/>
+
+[ALERT]
+service: WORKER
+status : 500
+
+> inspect logs
+> fix issue
+> restart service
+
+status : HEALTHY ✓
+
+</details>
+
+</td>
+
+<td width="33%" valign="top">
+
+🚀 Release Factory
+
+ BUILD
+   │
+   ▼
+ TEST
+   │
+   ▼
+ PROD
+
+<details>
+<summary><b>Ship release ▶</b></summary>
+<br/>
+
+BUILDING...   ✓
+TESTING...    ✓
+DEPLOYING...  ✓
+
+LIVE ✓
+
+</details>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+05 / QUICK BACKEND CHALLENGE
+
+<details>
+<summary><b>🧠 A new resource was created successfully. Which status code fits best?</b></summary>
+
+<br/>
+
+201 Created ✓
+
+</details>
+
+<details>
+<summary><b>🧠 The server handled the request successfully but has no response body. Which status code?</b></summary>
+
+<br/>
+
+204 No Content ✓
+
+</details>
+
+<details>
+<summary><b>🧠 A route requires authentication but no valid credentials were provided.</b></summary>
+
+<br/>
+
+401 Unauthorized ✓
+
+</details>
+
+<br/>
+
+06 / GITHUB RUNTIME
+
+<div align="center">
+
+<img height="165"
+src="https://streak-stats.demolab.com?user=Szero-White&theme=transparent&hide_border=true&ring=78B7FF&fire=F2C879&currStreakLabel=F2C879&sideLabels=AAB5C0&dates=697684&currStreakNum=F4F7FA&sideNums=F4F7FA" />
+
+<br/><br/>
+
+<img width="94%"
+src="https://github-readme-activity-graph.vercel.app/graph?username=Szero-White&bg_color=06080b&color=9aa8b8&line=66b3ff&point=f2c879&area=true&area_color=173a63&hide_border=true" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+BUILD → TEST → SHIP → IMPROVE
+
+Nguyen Cong Toan · Backend Web Developer
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Szero-White&style=flat-square&color=173a63" />
+<img src="https://img.shields.io/github/followers/Szero-White?style=flat-square&color=7c6234&labelColor=0d1117" />
+
+<br/><br/>
+
+<img width="100%" alt="footer"
+src="https://capsule-render.vercel.app/api?type=waving&height=115&section=footer&color=0:06080b,30:0b1422,65:173a63,100:7c6234" />
+
+</div>
