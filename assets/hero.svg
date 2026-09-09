@@ -57,7 +57,7 @@
 <text x="48" y="92" fill="#7ec1ff" font-size="11" font-weight="700" font-family="Consolas, monospace" letter-spacing="2.4">BACKEND WEB DEVELOPER</text>
 <text x="48" y="155" fill="url(#name)" font-size="49" font-weight="850" font-family="Segoe UI, Arial, sans-serif" letter-spacing="-1.8">NGUYEN CONG TOAN</text>
 <rect x="48" y="169" width="410" height="2" rx="1" fill="url(#edge)"/>
-<text x="48" y="205" fill="#b4bfd0" font-size="16" font-family="Segoe UI, Arial, sans-serif">APIs · Databases · Business Logic · Reliable Data Flow</text>
+<text x="48" y="205" fill="#b4bfd0" font-size="16" font-family="Segoe UI, Arial, sans-serif">APIs · Databases · Business Logic · Reliable Systems</text>
 <text x="48" y="236" fill="#78879a" font-size="11" font-family="Consolas, monospace">PHP   /   JAVA   /   JAVASCRIPT   /   SQL</text>
 
 <g transform="translate(48 260)">
