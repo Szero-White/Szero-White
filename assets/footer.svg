@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="126" viewBox="0 0 980 126">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#080d15"/><stop offset=".55" stop-color="#0b1120"/><stop offset="1" stop-color="#120c16"/></linearGradient>
+  <linearGradient id="l" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#4da3ff"/><stop offset=".35" stop-color="#8b7cff"/><stop offset=".7" stop-color="#ff8fb2"/><stop offset="1" stop-color="#f4c46c"/></linearGradient>
+</defs>
+<rect width="980" height="126" rx="19" fill="url(#bg)"/>
+<rect x="1" y="1" width="978" height="124" rx="18" fill="none" stroke="#273240"/>
+<rect x="28" y="22" width="924" height="2" rx="1" fill="url(#l)" opacity=".65"/>
+<text x="34" y="64" fill="#f7f9fc" font-size="19" font-weight="850" font-family="Segoe UI, Arial, sans-serif">NGUYEN CONG TOAN</text>
+<text x="34" y="88" fill="#788699" font-size="10" font-family="Consolas, monospace">BACKEND WEB DEVELOPER</text>
+<text x="610" y="61" fill="#f4c46c" font-size="10" font-weight="700" font-family="Consolas, monospace">BUILD → TEST → SHIP → IMPROVE</text>
+<text x="610" y="87" fill="#607083" font-size="9" font-family="Consolas, monospace">SEE YOU IN THE NEXT COMMIT.</text>
+</svg>

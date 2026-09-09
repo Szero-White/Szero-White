@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="390" viewBox="0 0 980 390">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#080d15"/><stop offset="1" stop-color="#0d0b14"/></linearGradient>
+  <linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#4da3ff"/><stop offset=".35" stop-color="#8b7cff"/><stop offset=".7" stop-color="#ff8fb2"/><stop offset="1" stop-color="#f4c46c"/></linearGradient>
+</defs>
+<rect width="980" height="390" rx="22" fill="url(#bg)"/>
+<rect x="1" y="1" width="978" height="388" rx="21" fill="none" stroke="#273240"/>
+<rect x="28" y="24" width="924" height="2" rx="1" fill="url(#line)" opacity=".75"/>
+<text x="34" y="64" fill="#f7f9fc" font-size="27" font-weight="850" font-family="Segoe UI, Arial, sans-serif">Languages first. Systems around them.</text>
+<text x="34" y="86" fill="#748295" font-size="10" font-family="Consolas, monospace">CORE TOOLKIT / BACKEND + WEB + DATA</text>
+
+<!-- card helper manually -->
+<g transform="translate(34 112)">
+  <rect width="216" height="150" rx="18" fill="#0d1420" stroke="#31577c"/>
+  <circle cx="180" cy="30" r="34" fill="#267ac7" opacity=".10"/>
+  <rect x="16" y="16" width="52" height="52" rx="14" fill="#101f34" stroke="#3e76aa"/>
+  <text x="42" y="48" text-anchor="middle" fill="#78c3ff" font-size="12" font-weight="800" font-family="Consolas, monospace">PHP</text>
+  <text x="16" y="92" fill="#f4f7fa" font-size="21" font-weight="800" font-family="Segoe UI, Arial, sans-serif">PHP</text>
+  <text x="16" y="112" fill="#6d7c90" font-size="8.5" font-family="Consolas, monospace">BACKEND / WEB</text>
+  <text x="16" y="136" fill="#a8b4c2" font-size="10" font-family="Segoe UI, Arial, sans-serif">Laravel · REST API</text>
+  <circle cx="190" cy="121" r="4" fill="#58a6ff"><animate attributeName="opacity" values="1;.25;1" dur="2.2s" repeatCount="indefinite"/></circle>
+</g>
+
+<g transform="translate(266 112)">
+  <rect width="216" height="150" rx="18" fill="#151015" stroke="#734a48"/>
+  <circle cx="180" cy="30" r="34" fill="#e05f4f" opacity=".09"/>
+  <rect x="16" y="16" width="52" height="52" rx="14" fill="#201316" stroke="#845049"/>
+  <text x="42" y="48" text-anchor="middle" fill="#ff9c7e" font-size="12" font-weight="800" font-family="Consolas, monospace">JV</text>
+  <text x="16" y="92" fill="#f4f7fa" font-size="21" font-weight="800" font-family="Segoe UI, Arial, sans-serif">JAVA</text>
+  <text x="16" y="112" fill="#826d75" font-size="8.5" font-family="Consolas, monospace">BACKEND / SERVICES</text>
+  <text x="16" y="136" fill="#b7a6aa" font-size="10" font-family="Segoe UI, Arial, sans-serif">Spring Boot · REST API</text>
+  <circle cx="190" cy="121" r="4" fill="#ff9c7e"><animate attributeName="opacity" values="1;.25;1" dur="2.5s" repeatCount="indefinite"/></circle>
+</g>
+
+<g transform="translate(498 112)">
+  <rect width="216" height="150" rx="18" fill="#16140b" stroke="#786629"/>
+  <circle cx="180" cy="30" r="34" fill="#f0c93d" opacity=".09"/>
+  <rect x="16" y="16" width="52" height="52" rx="14" fill="#201d0d" stroke="#8b792f"/>
+  <text x="42" y="48" text-anchor="middle" fill="#ffd94c" font-size="12" font-weight="800" font-family="Consolas, monospace">JS</text>
+  <text x="16" y="92" fill="#f4f7fa" font-size="21" font-weight="800" font-family="Segoe UI, Arial, sans-serif">JAVASCRIPT</text>
+  <text x="16" y="112" fill="#80794f" font-size="8.5" font-family="Consolas, monospace">WEB / INTERACTION</text>
+  <text x="16" y="136" fill="#b6b18e" font-size="10" font-family="Segoe UI, Arial, sans-serif">AJAX · jQuery · Web UI</text>
+  <circle cx="190" cy="121" r="4" fill="#ffd94c"><animate attributeName="opacity" values="1;.25;1" dur="2.8s" repeatCount="indefinite"/></circle>
+</g>
+
+<g transform="translate(730 112)">
+  <rect width="216" height="150" rx="18" fill="#091615" stroke="#2c6d66"/>
+  <circle cx="180" cy="30" r="34" fill="#41c7b4" opacity=".09"/>
+  <rect x="16" y="16" width="52" height="52" rx="14" fill="#0b201e" stroke="#347c72"/>
+  <text x="42" y="48" text-anchor="middle" fill="#6ee7d1" font-size="11" font-weight="800" font-family="Consolas, monospace">SQL</text>
+  <text x="16" y="92" fill="#f4f7fa" font-size="21" font-weight="800" font-family="Segoe UI, Arial, sans-serif">SQL</text>
+  <text x="16" y="112" fill="#597f7b" font-size="8.5" font-family="Consolas, monospace">DATA / QUERIES</text>
+  <text x="16" y="136" fill="#9fbab7" font-size="10" font-family="Segoe UI, Arial, sans-serif">MySQL · PostgreSQL</text>
+  <circle cx="190" cy="121" r="4" fill="#6ee7d1"><animate attributeName="opacity" values="1;.25;1" dur="2.4s" repeatCount="indefinite"/></circle>
+</g>
+
+<!-- ticker rail -->
+<rect x="34" y="286" width="912" height="76" rx="16" fill="#0a1119" stroke="#283443"/>
+<text x="52" y="310" fill="#657488" font-size="8.5" font-family="Consolas, monospace">FRAMEWORKS / WEB / TOOLING</text>
+<g font-family="Consolas, monospace" font-size="9" font-weight="700">
+  <rect x="52" y="324" width="78" height="25" rx="8" fill="#111a27" stroke="#30465e"/><text x="70" y="341" fill="#9bc8ff">Laravel</text>
+  <rect x="138" y="324" width="94" height="25" rx="8" fill="#111a27" stroke="#4d3c59"/><text x="154" y="341" fill="#c4aaff">Spring Boot</text>
+  <rect x="240" y="324" width="79" height="25" rx="8" fill="#111a27" stroke="#4a3f30"/><text x="257" y="341" fill="#edc07b">REST API</text>
+  <rect x="327" y="324" width="62" height="25" rx="8" fill="#111a27" stroke="#2e4b4a"/><text x="345" y="341" fill="#80d6ce">AJAX</text>
+  <rect x="397" y="324" width="64" height="25" rx="8" fill="#111a27" stroke="#303b48"/><text x="413" y="341" fill="#b3bfcc">HTML5</text>
+  <rect x="469" y="324" width="58" height="25" rx="8" fill="#111a27" stroke="#303b48"/><text x="484" y="341" fill="#b3bfcc">CSS3</text>
+  <rect x="535" y="324" width="88" height="25" rx="8" fill="#111a27" stroke="#303b48"/><text x="549" y="341" fill="#b3bfcc">Bootstrap</text>
+  <rect x="631" y="324" width="65" height="25" rx="8" fill="#111a27" stroke="#303b48"/><text x="648" y="341" fill="#b3bfcc">GitHub</text>
+  <rect x="704" y="324" width="68" height="25" rx="8" fill="#111a27" stroke="#303b48"/><text x="720" y="341" fill="#b3bfcc">VS Code</text>
+  <rect x="780" y="324" width="70" height="25" rx="8" fill="#111a27" stroke="#303b48"/><text x="796" y="341" fill="#b3bfcc">Postman</text>
+  <rect x="858" y="324" width="70" height="25" rx="8" fill="#111a27" stroke="#303b48"/><text x="875" y="341" fill="#b3bfcc">Docker</text>
+</g>
+</svg>

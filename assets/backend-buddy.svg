@@ -1,88 +1,99 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="980" height="360" viewBox="0 0 980 360">
-<style>
-  .bg{fill:#090d12}.panel{fill:#0d1219;stroke:#26313c;stroke-width:1}
-  .muted{fill:#7c8996;font:14px 'Segoe UI',sans-serif}
-  .mono{font-family:'Courier New',monospace}
-  .title{fill:#f7f2e8;font:bold 28px 'Segoe UI',sans-serif}
-  .gold{fill:#f2c879}.blue{fill:#66b3ff}.green{fill:#7dd3a8}
-  .eye{fill:#8dccff;filter:url(#glow)}
-  .blink{animation:blink 4.2s infinite;transform-origin:center}
-  .bot{animation:float 3.2s ease-in-out infinite}
-  .armL{animation:typeL .7s ease-in-out infinite alternate;transform-origin:620px 205px}
-  .armR{animation:typeR .7s ease-in-out infinite alternate;transform-origin:694px 205px}
-  .scan{animation:scan 3s linear infinite}
-  .steam1{animation:steam 2.1s ease-in-out infinite}
-  .steam2{animation:steam 2.1s .7s ease-in-out infinite}
-  .packet{animation:route 7s cubic-bezier(.45,.05,.55,.95) infinite}
-  .code{animation:code 3.8s linear infinite}
-  @keyframes blink{0%,43%,47%,100%{transform:scaleY(1)}45%{transform:scaleY(.08)}}
-  @keyframes float{50%{transform:translateY(-6px)}}
-  @keyframes typeL{to{transform:rotate(11deg)}}
-  @keyframes typeR{to{transform:rotate(-11deg)}}
-  @keyframes scan{from{transform:translateY(0)}to{transform:translateY(68px)}}
-  @keyframes steam{0%{opacity:0;transform:translateY(8px)}35%{opacity:.65}100%{opacity:0;transform:translate(5px,-16px)}}
-  @keyframes route{0%{transform:translate(-80px,230px) rotate(-6deg)}24%{transform:translate(160px,70px) rotate(5deg)}52%{transform:translate(470px,40px) rotate(-4deg)}78%{transform:translate(740px,115px) rotate(5deg)}100%{transform:translate(980px,220px)}}
-  @keyframes code{0%,18%{transform:translateY(0)}80%,100%{transform:translateY(-22px)}}
-</style>
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="400" viewBox="0 0 980 400">
 <defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#080d15"/><stop offset=".55" stop-color="#0b1120"/><stop offset="1" stop-color="#120c16"/></linearGradient>
+  <radialGradient id="g1"><stop stop-color="#4da3ff" stop-opacity=".14"/><stop offset="1" stop-color="#4da3ff" stop-opacity="0"/></radialGradient>
+  <radialGradient id="g2"><stop stop-color="#ff8fb2" stop-opacity=".10"/><stop offset="1" stop-color="#ff8fb2" stop-opacity="0"/></radialGradient>
   <filter id="glow"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
-  <linearGradient id="botg" x1="0" x2="1"><stop stop-color="#202b37"/><stop offset="1" stop-color="#0e141c"/></linearGradient>
-  <linearGradient id="desk" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#28323d"/><stop offset="1" stop-color="#151b22"/></linearGradient>
 </defs>
-<rect width="980" height="360" rx="20" class="bg"/>
-<rect x="1" y="1" width="978" height="358" rx="19" fill="none" stroke="#20262d"/>
-<line x1="0" y1="44" x2="980" y2="44" stroke="#20262d"/>
-<circle cx="20" cy="22" r="4" fill="#313b46"/><circle cx="34" cy="22" r="4" fill="#313b46"/><circle cx="48" cy="22" r="4" fill="#f2c879"/>
-<text x="66" y="26" class="muted mono" font-size="11">backend-buddy.live</text>
-<text x="842" y="26" class="muted mono" font-size="11">NIGHT SHIFT · ONLINE</text>
+<rect width="980" height="400" rx="22" fill="url(#bg)"/>
+<circle cx="760" cy="180" r="240" fill="url(#g1)"/>
+<circle cx="930" cy="345" r="180" fill="url(#g2)"/>
+<rect x="1" y="1" width="978" height="398" rx="21" fill="none" stroke="#273240"/>
 
-<text x="48" y="105" class="gold mono" font-size="12" font-weight="700">BACKEND BUDDY / ACTIVE</text>
-<text x="48" y="148" class="title">Meet the quiet one</text>
-<text x="48" y="180" class="title">behind the requests.</text>
-<text x="48" y="215" class="muted">A tiny desk, a running terminal, one very committed coffee cup,</text>
-<text x="48" y="238" class="muted">and a queue that somehow never stops arriving.</text>
-<rect x="48" y="270" width="255" height="34" rx="17" class="panel"/>
-<circle cx="66" cy="287" r="4" class="green" filter="url(#glow)"/>
-<text x="80" y="292" class="muted mono" font-size="11">currently: handling requests</text>
+<text x="34" y="48" fill="#f4c46c" font-size="10" font-weight="700" font-family="Consolas, monospace" letter-spacing="1.8">BACKEND BUDDY / NIGHT SHIFT</text>
+<text x="34" y="91" fill="#f8fafc" font-size="30" font-weight="850" font-family="Segoe UI, Arial, sans-serif">The tiny teammate nobody assigned.</text>
+<text x="34" y="121" fill="#8b99aa" font-size="13" font-family="Segoe UI, Arial, sans-serif">Still checking logs. Still routing requests. Still refusing to admit</text>
+<text x="34" y="143" fill="#8b99aa" font-size="13" font-family="Segoe UI, Arial, sans-serif">that coffee might be a runtime dependency.</text>
 
-<g class="packet">
-  <rect x="0" y="0" width="38" height="38" rx="13" fill="#10243a" stroke="#66b3ff"/>
-  <circle cx="12" cy="13" r="2.5" fill="#eaf6ff"/><circle cx="26" cy="13" r="2.5" fill="#eaf6ff"/>
-  <text x="9" y="29" class="blue mono" font-size="8" font-weight="700">GET</text>
+<!-- status stack -->
+<g transform="translate(34 174)">
+  <rect width="280" height="42" rx="21" fill="#0a121b" stroke="#304154"/>
+  <circle cx="20" cy="21" r="4" fill="#67e8b4" filter="url(#glow)"><animate attributeName="opacity" values="1;.3;1" dur="1.7s" repeatCount="indefinite"/></circle>
+  <text x="35" y="25" fill="#c2ceda" font-size="9.5" font-family="Consolas, monospace">handling requests · 200 OK</text>
+</g>
+<g transform="translate(34 229)">
+  <rect width="220" height="34" rx="17" fill="#0a121b" stroke="#3b3150"/>
+  <circle cx="18" cy="17" r="3" fill="#a98bff"/>
+  <text x="31" y="21" fill="#8f9cac" font-size="8.7" font-family="Consolas, monospace">queue depth: 04</text>
+</g>
+<g transform="translate(34 274)">
+  <rect width="220" height="34" rx="17" fill="#0a121b" stroke="#51412b"/>
+  <circle cx="18" cy="17" r="3" fill="#f4c46c"/>
+  <text x="31" y="21" fill="#8f9cac" font-size="8.7" font-family="Consolas, monospace">coffee level: critical</text>
 </g>
 
-<g transform="translate(660 115)" class="bot">
-  <line x1="0" y1="-18" x2="0" y2="0" stroke="#536173"/>
-  <circle cx="0" cy="-21" r="5" class="gold" filter="url(#glow)"/>
-  <rect x="-42" y="0" width="84" height="66" rx="24" fill="url(#botg)" stroke="#536173"/>
-  <rect x="-31" y="12" width="62" height="43" rx="14" fill="#070b10" stroke="#27333f"/>
-  <g class="blink">
-    <ellipse cx="-15" cy="31" rx="5" ry="7" class="eye"/>
-    <ellipse cx="15" cy="31" rx="5" ry="7" class="eye"/>
-  </g>
-  <path d="M-8 45 Q0 51 8 45" fill="none" stroke="#f2c879" stroke-width="2"/>
-  <rect x="-29" y="69" width="58" height="44" rx="13" fill="#141c25" stroke="#3f4d5c"/>
-  <text x="-13" y="95" class="blue mono" font-size="12" font-weight="700">&lt;/&gt;</text>
-  <line x1="-26" y1="81" x2="-62" y2="94" stroke="#202b36" stroke-width="8" stroke-linecap="round" class="armL"/>
-  <line x1="26" y1="81" x2="62" y2="94" stroke="#202b36" stroke-width="8" stroke-linecap="round" class="armR"/>
+<!-- floating packet pets -->
+<path id="pet1" d="M320 330 C420 270 470 305 545 220 C620 135 715 120 940 212" fill="none" stroke="#344252" stroke-width="1" stroke-dasharray="5 7"/>
+<g>
+  <rect x="-18" y="-18" width="36" height="36" rx="12" fill="#10223a" stroke="#58a6ff"/>
+  <circle cx="-7" cy="-5" r="2.4" fill="#fff"/><circle cx="7" cy="-5" r="2.4" fill="#fff"/>
+  <text x="-10" y="10" fill="#7ec1ff" font-size="7" font-weight="800" font-family="Consolas, monospace">GET</text>
+  <animateMotion dur="7s" repeatCount="indefinite"><mpath href="#pet1"/></animateMotion>
 </g>
 
-<rect x="585" y="226" width="150" height="93" rx="9" fill="#111821" stroke="#3a4653"/>
-<rect x="595" y="236" width="130" height="69" rx="5" fill="#070b10"/>
-<g clip-path="url(#clipCode)" class="code mono" font-size="9">
-  <text x="604" y="251" class="blue">GET</text><text x="632" y="251" fill="#667481"> /api/profile </text><text x="696" y="251" class="green">200</text>
-  <text x="604" y="268" class="blue">POST</text><text x="632" y="268" fill="#667481"> /session </text><text x="696" y="268" class="green">201</text>
-  <text x="604" y="285" fill="#667481">db.query(</text><text x="654" y="285" class="gold">'skills'</text><text x="697" y="285" fill="#667481">)</text>
-  <text x="604" y="302" fill="#667481">cache.hit = </text><text x="672" y="302" class="green">true</text>
-  <text x="604" y="319" class="blue">GET</text><text x="632" y="319" fill="#667481"> /coffee </text><text x="696" y="319" class="gold">202</text>
+<!-- desk -->
+<rect x="580" y="328" width="300" height="15" rx="7" fill="#222d38"/>
+<rect x="604" y="341" width="9" height="45" rx="4" fill="#151b22"/>
+<rect x="846" y="341" width="9" height="45" rx="4" fill="#151b22"/>
+
+<!-- bot -->
+<g>
+  <animateTransform attributeName="transform" type="translate" values="0 0;0 -7;0 0" dur="3.1s" repeatCount="indefinite"/>
+  <line x1="730" y1="89" x2="730" y2="106" stroke="#617186"/>
+  <circle cx="730" cy="84" r="5" fill="#f4c46c" filter="url(#glow)"><animate attributeName="opacity" values="1;.25;1" dur="1.5s" repeatCount="indefinite"/></circle>
+  <rect x="680" y="105" width="100" height="80" rx="28" fill="#1a2532" stroke="#60748a"/>
+  <rect x="694" y="120" width="72" height="49" rx="16" fill="#060a0f" stroke="#2b3948"/>
+  <ellipse cx="713" cy="145" rx="5.5" ry="7.5" fill="#74c4ff" filter="url(#glow)">
+    <animate attributeName="ry" values="7.5;7.5;1;7.5;7.5" keyTimes="0;.45;.47;.49;1" dur="4s" repeatCount="indefinite"/>
+  </ellipse>
+  <ellipse cx="747" cy="145" rx="5.5" ry="7.5" fill="#b28cff" filter="url(#glow)">
+    <animate attributeName="ry" values="7.5;7.5;1;7.5;7.5" keyTimes="0;.45;.47;.49;1" dur="4s" repeatCount="indefinite"/>
+  </ellipse>
+  <path d="M721 159 Q730 166 739 159" fill="none" stroke="#f4c46c" stroke-width="2"/>
+  <rect x="696" y="190" width="68" height="52" rx="15" fill="#141f2b" stroke="#44566a"/>
+  <text x="714" y="220" fill="#7ec1ff" font-size="12" font-weight="800" font-family="Consolas, monospace">&lt;/&gt;</text>
+  <line x1="701" y1="207" x2="659" y2="229" stroke="#263746" stroke-width="9" stroke-linecap="round">
+    <animateTransform attributeName="transform" type="rotate" values="0 701 207;9 701 207;0 701 207" dur=".75s" repeatCount="indefinite"/>
+  </line>
+  <line x1="759" y1="207" x2="801" y2="229" stroke="#263746" stroke-width="9" stroke-linecap="round">
+    <animateTransform attributeName="transform" type="rotate" values="0 759 207;-9 759 207;0 759 207" dur=".75s" repeatCount="indefinite"/>
+  </line>
 </g>
-<defs><clipPath id="clipCode"><rect x="595" y="236" width="130" height="69" rx="5"/></clipPath></defs>
 
-<rect x="548" y="315" width="230" height="14" rx="7" fill="url(#desk)"/>
-<rect x="568" y="326" width="10" height="30" rx="4" fill="#151b22"/><rect x="748" y="326" width="10" height="30" rx="4" fill="#151b22"/>
+<!-- laptop -->
+<rect x="643" y="249" width="176" height="89" rx="10" fill="#101821" stroke="#405064"/>
+<rect x="654" y="260" width="154" height="63" rx="6" fill="#05090d"/>
+<text x="665" y="276" fill="#66b6ff" font-size="8.5" font-family="Consolas, monospace">GET</text>
+<text x="692" y="276" fill="#6f7e91" font-size="8.5" font-family="Consolas, monospace">/api/profile</text>
+<text x="776" y="276" fill="#6ee7b7" font-size="8.5" font-family="Consolas, monospace">200</text>
+<text x="665" y="291" fill="#b28cff" font-size="8.5" font-family="Consolas, monospace">POST</text>
+<text x="696" y="291" fill="#6f7e91" font-size="8.5" font-family="Consolas, monospace">/session</text>
+<text x="776" y="291" fill="#6ee7b7" font-size="8.5" font-family="Consolas, monospace">201</text>
+<text x="665" y="306" fill="#f4c46c" font-size="8.5" font-family="Consolas, monospace">db.query</text>
+<text x="710" y="306" fill="#6f7e91" font-size="8.5" font-family="Consolas, monospace">('skills')</text>
+<text x="779" y="306" fill="#6ee7b7" font-size="8.5" font-family="Consolas, monospace">✓</text>
 
-<rect x="760" y="283" width="28" height="28" rx="5" fill="#17130d" stroke="#5e4f36"/>
-<path d="M788 290 q13 0 13 9 q0 9 -13 9" fill="none" stroke="#5e4f36"/>
-<path d="M768 278 q-5 -11 1 -18" fill="none" stroke="#f2c879" class="steam1"/>
-<path d="M779 278 q5 -12 0 -21" fill="none" stroke="#f2c879" class="steam2"/>
+<!-- coffee -->
+<rect x="835" y="294" width="31" height="31" rx="6" fill="#18120d" stroke="#6f5737"/>
+<path d="M866 302 Q881 302 881 310 Q881 318 866 318" fill="none" stroke="#6f5737"/>
+<path d="M844 291 Q839 278 845 267" fill="none" stroke="#f4c46c" stroke-opacity=".6">
+  <animate attributeName="opacity" values="0;.7;0" dur="2s" repeatCount="indefinite"/>
+  <animateTransform attributeName="transform" type="translate" values="0 5;4 -9" dur="2s" repeatCount="indefinite"/>
+</path>
+<path d="M856 291 Q862 276 855 264" fill="none" stroke="#ff9cb9" stroke-opacity=".5">
+  <animate attributeName="opacity" values="0;.65;0" dur="2s" begin=".6s" repeatCount="indefinite"/>
+  <animateTransform attributeName="transform" type="translate" values="0 5;-4 -9" dur="2s" begin=".6s" repeatCount="indefinite"/>
+</path>
+
+<text x="34" y="358" fill="#566476" font-size="9" font-family="Consolas, monospace">tiny services, serious responsibilities.</text>
 </svg>

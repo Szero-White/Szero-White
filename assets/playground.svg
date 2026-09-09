@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="380" viewBox="0 0 980 380">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#080d15"/><stop offset="1" stop-color="#0d0b14"/></linearGradient>
+  <linearGradient id="top" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#4da3ff"/><stop offset=".35" stop-color="#8b7cff"/><stop offset=".7" stop-color="#ff8fb2"/><stop offset="1" stop-color="#f4c46c"/></linearGradient>
+</defs>
+<rect width="980" height="380" rx="22" fill="url(#bg)"/>
+<rect x="1" y="1" width="978" height="378" rx="21" fill="none" stroke="#273240"/>
+<rect x="28" y="24" width="924" height="2" rx="1" fill="url(#top)" opacity=".7"/>
+<text x="34" y="62" fill="#f7f9fc" font-size="27" font-weight="850" font-family="Segoe UI, Arial, sans-serif">Backend playground</text>
+<text x="34" y="84" fill="#748295" font-size="10" font-family="Consolas, monospace">A FEW SMALL SYSTEMS HAVING A VERY BUSY DAY</text>
+
+<!-- 3 cards -->
+<g transform="translate(34 108)">
+  <rect width="288" height="176" rx="17" fill="#0c1420" stroke="#30465e"/>
+  <text x="18" y="28" fill="#77bfff" font-size="9" font-weight="700" font-family="Consolas, monospace">REQUEST COURIER</text>
+  <text x="18" y="52" fill="#eef3f8" font-size="15" font-weight="750" font-family="Segoe UI, Arial, sans-serif">Send one packet.</text>
+  <line x1="30" y1="108" x2="256" y2="108" stroke="#384553" stroke-dasharray="6 6"/>
+  <g font-family="Consolas, monospace" font-size="7" fill="#8492a0">
+    <rect x="16" y="91" width="48" height="34" rx="8" fill="#091019" stroke="#3a4b5c"/><text x="28" y="112">CLI</text>
+    <rect x="88" y="91" width="48" height="34" rx="8" fill="#091019" stroke="#3a4b5c"/><text x="102" y="112">API</text>
+    <rect x="160" y="91" width="48" height="34" rx="8" fill="#091019" stroke="#3a4b5c"/><text x="171" y="112">SVC</text>
+    <rect x="232" y="91" width="38" height="34" rx="8" fill="#091019" stroke="#3a4b5c"/><text x="244" y="112">DB</text>
+  </g>
+  <circle r="6" fill="#58a6ff">
+    <animateMotion path="M40 108 H250" dur="3s" repeatCount="indefinite"/>
+    <animate attributeName="fill" values="#58a6ff;#8b7cff;#f4c46c;#67e8b4" dur="3s" repeatCount="indefinite"/>
+  </circle>
+  <text x="18" y="152" fill="#647487" font-size="8" font-family="Consolas, monospace">ROUTING → AUTH → QUERY → 200</text>
+</g>
+
+<g transform="translate(346 108)">
+  <rect width="288" height="176" rx="17" fill="#120f17" stroke="#68475f"/>
+  <text x="18" y="28" fill="#ff9dbd" font-size="9" font-weight="700" font-family="Consolas, monospace">500 HUNT</text>
+  <text x="18" y="52" fill="#eef3f8" font-size="15" font-weight="750" font-family="Segoe UI, Arial, sans-serif">Find the unhappy service.</text>
+  <g font-family="Consolas, monospace" font-size="7" fill="#8492a0">
+    <g transform="translate(18 75)"><rect width="76" height="34" rx="8" fill="#0a1017" stroke="#3d3640"/><circle cx="12" cy="11" r="3" fill="#67e8b4"/><text x="25" y="21">API-01</text></g>
+    <g transform="translate(106 75)"><rect width="76" height="34" rx="8" fill="#0a1017" stroke="#3d3640"/><circle cx="12" cy="11" r="3" fill="#67e8b4"/><text x="25" y="21">AUTH</text></g>
+    <g transform="translate(194 75)"><rect width="76" height="34" rx="8" fill="#140c11" stroke="#78364c"/><circle cx="12" cy="11" r="3" fill="#ff6f98"><animate attributeName="opacity" values="1;.2;1" dur=".8s" repeatCount="indefinite"/></circle><text x="25" y="21">WORKER</text></g>
+    <g transform="translate(18 119)"><rect width="76" height="34" rx="8" fill="#0a1017" stroke="#3d3640"/><circle cx="12" cy="11" r="3" fill="#67e8b4"/><text x="25" y="21">CACHE</text></g>
+    <g transform="translate(106 119)"><rect width="76" height="34" rx="8" fill="#0a1017" stroke="#3d3640"/><circle cx="12" cy="11" r="3" fill="#67e8b4"/><text x="25" y="21">DB-01</text></g>
+    <g transform="translate(194 119)"><rect width="76" height="34" rx="8" fill="#0a1017" stroke="#3d3640"/><circle cx="12" cy="11" r="3" fill="#67e8b4"/><text x="25" y="21">API-02</text></g>
+  </g>
+</g>
+
+<g transform="translate(658 108)">
+  <rect width="288" height="176" rx="17" fill="#14120c" stroke="#65532f"/>
+  <text x="18" y="28" fill="#f4c46c" font-size="9" font-weight="700" font-family="Consolas, monospace">RELEASE FACTORY</text>
+  <text x="18" y="52" fill="#eef3f8" font-size="15" font-weight="750" font-family="Segoe UI, Arial, sans-serif">Build. Test. Ship.</text>
+  <rect x="18" y="123" width="252" height="12" rx="6" fill="#1d1b16"/>
+  <g font-family="Consolas, monospace" font-size="7" fill="#918574">
+    <rect x="20" y="78" width="62" height="40" rx="8" fill="#0d1114" stroke="#4a4436"/><text x="36" y="102">BUILD</text>
+    <rect x="113" y="78" width="62" height="40" rx="8" fill="#0d1114" stroke="#4a4436"/><text x="132" y="102">TEST</text>
+    <rect x="206" y="78" width="62" height="40" rx="8" fill="#0d1114" stroke="#4a4436"/><text x="225" y="102">PROD</text>
+  </g>
+  <rect x="28" y="120" width="17" height="17" rx="4" fill="#58a6ff">
+    <animate attributeName="x" values="28;121;214;245" keyTimes="0;.4;.75;1" dur="3.4s" repeatCount="indefinite"/>
+    <animate attributeName="fill" values="#58a6ff;#8b7cff;#f4c46c;#67e8b4" dur="3.4s" repeatCount="indefinite"/>
+  </rect>
+  <text x="18" y="154" fill="#756b5a" font-size="8" font-family="Consolas, monospace">LIVE ✓</text>
+</g>
+
+<!-- status deck -->
+<rect x="34" y="304" width="912" height="50" rx="15" fill="#0a1119" stroke="#283443"/>
+<text x="50" y="334" fill="#667587" font-size="8.5" font-family="Consolas, monospace">HTTP STATUS DECK</text>
+<g font-family="Consolas, monospace" font-size="9" font-weight="700">
+  <g transform="translate(185 316)"><rect width="70" height="26" rx="8" fill="#0e171f" stroke="#31536e"/><text x="20" y="18" fill="#79c2ff">200 OK</text></g>
+  <g transform="translate(266 316)"><rect width="78" height="26" rx="8" fill="#101822" stroke="#414a72"/><text x="15" y="18" fill="#b4a1ff">201 CREATED</text></g>
+  <g transform="translate(355 316)"><rect width="75" height="26" rx="8" fill="#12150f" stroke="#5f5a31"/><text x="15" y="18" fill="#eac966">204 EMPTY</text></g>
+  <g transform="translate(441 316)"><rect width="73" height="26" rx="8" fill="#151014" stroke="#6f4154"/><text x="17" y="18" fill="#ff94b4">401 AUTH</text></g>
+  <g transform="translate(525 316)"><rect width="77" height="26" rx="8" fill="#151014" stroke="#6f4154"/><text x="15" y="18" fill="#ff94b4">404 LOST</text></g>
+  <g transform="translate(613 316)"><rect width="78" height="26" rx="8" fill="#180d12" stroke="#7b334c"/><text x="16" y="18" fill="#ff729b">500 OOPS</text></g>
+</g>
+<rect x="181" y="312" width="78" height="34" rx="10" fill="none" stroke="#67e8b4" opacity=".65">
+  <animate attributeName="x" values="181;262;351;437;521;609;181" dur="7s" repeatCount="indefinite"/>
+</rect>
+</svg>
